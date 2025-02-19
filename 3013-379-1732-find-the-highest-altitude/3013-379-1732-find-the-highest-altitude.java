@@ -11,7 +11,7 @@ class Solution {
             
         }
         if(altitudes[altitudes.length-1]>max){
-            max=altitudes[gain.length];
+            max=altitudes[altitudes.length-1];
         }
         return max;
         
