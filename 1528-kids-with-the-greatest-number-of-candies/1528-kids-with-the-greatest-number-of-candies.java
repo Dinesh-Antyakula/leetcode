@@ -4,12 +4,13 @@ class Solution {
         int a=getMax(candies);
         int count=0;
         for(int num:candies){
-            if (num+extraCandies>=a){
-                ans.add(true);
-            }
-            else{
-                ans.add(false);
-            }
+            // if (num+extraCandies>=a){
+            //     ans.add(true);
+            // }
+            // else{
+            //     ans.add(false);
+            // }
+            ans.add(num+extraCandies>=a);
         }
         return ans;
 
