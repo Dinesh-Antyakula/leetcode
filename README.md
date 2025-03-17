@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-Antyakula/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dinesh-Antyakula/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-Antyakula/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
