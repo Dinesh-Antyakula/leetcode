@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0441-arranging-coins) |
 | [1635-number-of-good-pairs](https://github.com/Dinesh-Antyakula/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Dinesh-Antyakula/leetcode/tree/master/0441-arranging-coins) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dinesh-Antyakula/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dinesh-Antyakula/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
